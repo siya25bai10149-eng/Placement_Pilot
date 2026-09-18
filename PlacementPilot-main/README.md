@@ -39,7 +39,7 @@ Installation & Execution
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/PlacementPilot.git
+git clone https://github.com/siya25bai10149-eng/Placement_Pilot.git
 Navigate to the source directory:
 
 Bash
