@@ -35,23 +35,6 @@ Java Development Kit (JDK) 11 or higher.
 
 A terminal or command prompt.
 
-Installation & Execution
-Clone the repository:
-
-Bash
-git clone https://github.com/your-username/PlacementPilot.git
-Navigate to the source directory:
-
-Bash
-cd PlacementPilot/src
-Compile the Java files:
-
-Bash
-javac PlacementPilot.java
-Run the application:
-
-Bash
-java PlacementPilot
 
 📂 Project Structure
 
@@ -71,5 +54,6 @@ PlacementPilot/
 
 📝 Author
 Student Name: Siya Panwar
+Registration number - 25BAI10149
 
 Course: Programming in Java 
