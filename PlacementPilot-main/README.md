@@ -70,8 +70,6 @@ PlacementPilot/
 
 
 📝 Author
-Student Name: Aryan Sharma
+Student Name: Siya Panwar
 
-Course: Programming in Java (Capstone Project)
-
-Deadline: March 31, 2026
+Course: Programming in Java 
